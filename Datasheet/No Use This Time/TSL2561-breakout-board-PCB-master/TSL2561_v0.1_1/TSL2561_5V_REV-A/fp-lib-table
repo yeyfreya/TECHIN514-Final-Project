@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TSL2561_5V_REV-A")(type "KiCad")(uri "$(KIPRJMOD)/TSL2561_5V_REV-A.pretty")(options "")(descr ""))
+)

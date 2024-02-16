@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Adafruit AT42QT1010 Breakout")(type "KiCad")(uri "$(KIPRJMOD)/Adafruit AT42QT1010 Breakout.pretty")(options "")(descr ""))
+)
