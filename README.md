@@ -34,6 +34,6 @@ The purpose of display design is to use beeping sound and red led blinking to ma
 
 ## Communication and Diagram
 
-![Communication Diagram](Sketches/Diagram.png)
+![Communication Diagram](Sketches/systematic_diagram.jpg)
 *System Architetcure Diagram*
 
