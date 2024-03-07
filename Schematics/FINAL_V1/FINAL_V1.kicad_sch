@@ -939,7 +939,7 @@
     (property "Reference" "R3" (at 135.89 86.36 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10K" (at 135.89 88.9 0)
+    (property "Value" "2M" (at 135.89 88.9 0)
       (effects (font (size 1.016 1.016) bold))
     )
     (property "Footprint" "MPU6050:0603-NO" (at 135.89 88.9 0)
